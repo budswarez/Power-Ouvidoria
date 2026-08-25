@@ -1,0 +1,6 @@
+{
+  "name": "Power Ouvidoria",
+  "description": "Sistema de ouvidoria e canal de ética da Sua Empresa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
